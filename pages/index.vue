@@ -38,7 +38,7 @@
           <icon name="ph:paper-plane-tilt-bold" class="h-4 w-4" />
         </button>
         <a
-          href="https://github.com/fayazara/onelink"
+          href="https://github.com/Ashutosh102/linkhub"
           target="_blank"
           class="h-12 flex items-center space-x-2 px-4 border-r text-xs font-medium bg-white text-slate-700"
         >
@@ -78,23 +78,23 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "John Snow",
-    d: "I’m John Snow, the king in the north. I know Nothing.",
-    i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
-    f: "https://www.facebook.com/john_snow",
-    t: "https://twitter.com/john_snow",
-    ig: "https://www.instagram.com/john_snow",
-    e: "mail@john_snow.cc",
-    gh: "https://github.com/john_snow",
-    tg: "https://t.me/john_snow",
-    w: "+918888888888",
-    y: "https://youtube.com/@john_snow",
-    l: "https://linkedin.com/john_snow",
+    n: "Dev Ashu",
+    d: "WEB DEVELOPER AND FREELANCER",
+    i: "https://devfolio-devashu.netlify.app/static/media/profile.6fc6fc1ad10c38acadb1.png",
+    f: "https://www.facebook.com/ashutosh.mohanty.58958",
+    t: "https://twitter.com/Ashutos56695774?s=09",
+    ig: "https://www.instagram.com/dev_ashu_102/",
+    e: "ashutoshmohanty3815@gmail.com",
+    gh: "https://github.com/Ashutosh102",
+    tg: "https://t.me/Ashutosh3815",
+    w: "+917749067820",
+    y: "https://youtube.com/@ashutoshmohanty7573",
+    l: "https://www.linkedin.com/in/devashu",
     ls: [
       {
         l: "My Website",
         i: "ph:globe-duotone",
-        u: "https://example.com",
+        u: "https://devfolio-devashu.netlify.app/",
       },
       {
         l: "Amazon wishlist",
@@ -114,7 +114,7 @@ const prefillDemoData = () => {
       {
         l: "Download my resume",
         i: "ph:file-pdf",
-        u: "https://google.com",
+        u: "https://drive.google.com/file/d/1jsav9pJxS8gBhYmJQnI1viki1wcWHmHE/view?usp=sharing",
       },
     ],
   };
